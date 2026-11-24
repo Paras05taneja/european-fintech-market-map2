@@ -1,0 +1,14 @@
+segment,Bulgaria,Denmark,France,Germany,Italy,Netherlands,Sweden,UK
+Accounting and finance software,0,0,1,0,0,0,0,0
+B2B spend management,1,1,1,1,1,0,0,0
+BNPL,0,0,0,0,1,0,1,0
+Banking-as-a-service,0,0,0,1,0,0,0,0
+Core banking software,0,0,0,1,0,0,0,0
+Insurtech,0,0,1,0,1,0,0,0
+Investing,0,0,0,2,0,0,0,0
+Investing infrastructure,0,0,0,1,0,0,0,0
+Neobank,0,1,0,2,0,1,0,3
+Open banking,0,0,0,0,0,0,1,2
+Payments,0,0,0,0,1,1,0,2
+SME banking,0,0,1,0,0,0,0,0
+Wealth management,0,0,0,0,1,0,0,0
